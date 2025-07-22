@@ -1,1 +1,1 @@
-# heart_failure_project
+# ml-heart-health
